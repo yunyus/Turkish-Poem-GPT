@@ -48,7 +48,3 @@ To generate text using the trained model, run:
 ```
 python src/generate.py
 ```
-
-## License
-
-This project is licensed under the MIT License.
