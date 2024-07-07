@@ -1,6 +1,6 @@
 # TurkishPoemGPT Project
 
-This project provides a simple implementation of a GPT-like model using PyTorch, specifically designed for generating Turkish poems. The project includes data loading, model training, and text generation functionalities.
+This project provides a simple implementation of a GPT-like model using PyTorch, specifically designed for generating Turkish poems. The project includes data loading, model training, and text generation functionalities. It is built on Carpathy's NanoGPT.
 
 ## Project Structure
 
